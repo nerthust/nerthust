@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey, I'm Danilo! :)  
+I'm a 21 years old software developer from Colombia.
 
-<!--
-**nerthust/nerthust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal as a developer is to write high-quality code that is efficient while also fostering a positive and collaborative and knowledge sharing environment.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Java, Python, C++, Rust.
+- ⚙️ Django, Rocket, Django.
+- 🚀 Docker, AWS, Azure, GCP, SQL, MySQL, PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Challenges that I'm currently challenging myself
+- 🌱 I’m currently learning about Spring.
+- 💡 I am improving in abstraction and problem-solving..
+
+## Others thing about me
+- 📝I enjoy capturing my life in verses.
+- 🎨 I enjoy drawing and using colors to capture the vibrancy of life on them.
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
