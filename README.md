@@ -10,7 +10,7 @@ My goal as a developer is to write high-quality code that is efficient while als
 
 ## Challenges that I'm currently challenging myself
 - 🌱 I’m currently learning about Spring.
-- 💡 I am improving in abstraction and problem-solving..
+- 💡 I am improving in abstraction and problem-solving.
 
 ## Others thing about me
 - 📝I enjoy capturing my life in verses.
