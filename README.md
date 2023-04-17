@@ -5,7 +5,7 @@ My goal as a developer is to write high-quality code that is efficient while als
 
 ## Skills
 - 👨‍💻 Java, Python, C++, Rust.
-- ⚙️ Django, Rocket, Django.
+- ⚙️ Django, Rocket.
 - 🚀 Docker, AWS, Azure, GCP, SQL, MySQL, PostgreSQL.
 
 ## Challenges that I'm currently challenging myself
