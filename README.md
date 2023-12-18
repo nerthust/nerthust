@@ -16,4 +16,4 @@ My goal as a developer is to write high-quality code that is efficient while als
 - 📝I enjoy capturing my life in verses.
 - 🎨 I enjoy drawing and using colors to capture the vibrancy of life on them.
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting!</h4>
