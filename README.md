@@ -9,7 +9,7 @@ My goal as a developer is to write high-quality code that is efficient while als
 - 🚀 Docker, AWS, Azure, GCP, SQL, MySQL, PostgreSQL.
 
 ## Challenges that I'm currently challenging myself
-- 🌱 I’m currently learning about Go and Flutter.
+- 🌱 I’m currently learning about Go.
 - 💡 I am improving in abstraction and problem-solving.
 
 ## Others thing about me
